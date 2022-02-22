@@ -1,6 +1,6 @@
-##Chapter 1
+## Chapter 1 ##
 
-#Day 1
+# Day 1 #
 
 1. Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp
    Jacob's word: "Blockchain is an open, decentralized, shared database that allows anyone to store stuff publically". 
@@ -16,7 +16,7 @@
    
    Thanks for reviewing my answer! have a nice day!
    
-#Day 2
+# Day 2 #
 1. What are the 5 Cadence Programming Language Pillars?
    Safety and Security, Clarity, Approachability, Developer Experience(I like it), Resource Oriented Programming.
 
