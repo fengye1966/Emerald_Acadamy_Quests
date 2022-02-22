@@ -15,3 +15,12 @@
    A script is used to view the data and do not cost money since some organizations are maintaining the data. They're the mining guys.    
    
    Thanks for reviewing my answer! have a nice day!
+   
+#Day 2
+1. What are the 5 Cadence Programming Language Pillars?
+   Safety and Security, Clarity, Approachability, Developer Experience(I like it), Resource Oriented Programming.
+
+In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
+   There're so many attack on smart contract just because the contract creators cannot handle the complexity for very big contract and investors lost their fund. 
+   One of the best way to fix this is by Clarity and Approachability which enable the coders to reduce their coding fault at the very beginning time.
+   Also I prefer the programming language with better developing experience which saves my life and let me focus on something really important.   
