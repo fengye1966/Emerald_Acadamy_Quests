@@ -5,5 +5,5 @@
 
 
 2. Check that your variable is actually equals "the best" by executing a script to read that variable. Include a screenshot of the output.
-![image](https://user-images.githubusercontent.com/76749/155153905-18dfff46-6452-4f59-bf07-5aab86e3bde2.png)
+![image](https://github.com/fengye1966/Emerald_Acadamy_Quests/blob/main/Chapter2D1Quest.png?raw=true)
 
