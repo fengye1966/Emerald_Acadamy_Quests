@@ -23,3 +23,6 @@ A function named updateMyNumber that takes in a new number named newNumber as a 
 Add a script that reads myNumber from the contract
 
 Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
+![image](https://github.com/fengye1966/Emerald_Acadamy_Quests/blob/0c7a7500ff3a977183426bb22e91a9677afd536d/Chapter2D2QuestContract.png)
+![image](https://github.com/fengye1966/Emerald_Acadamy_Quests/blob/0c7a7500ff3a977183426bb22e91a9677afd536d/Chapter2D2QuestTransaction.png)
+![image](https://github.com/fengye1966/Emerald_Acadamy_Quests/blob/0c7a7500ff3a977183426bb22e91a9677afd536d/Chapter2D2QuestScript.png)
